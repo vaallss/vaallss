@@ -87,7 +87,7 @@ Passionate about building impactful digital products that combine design, techno
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=iqbalapriand&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=iqbalapriand&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
