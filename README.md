@@ -1,11 +1,8 @@
-# 👋 Hi, I'm Iqbal Apriand
+👋 Hi, I'm Iqbal Apriand
 
-🎨 **UI/UX Designer | 💻 Full-Stack Developer | 🤖 AI Enthusiast**
+🎨 UI/UX Designer | 💻 Full-Stack Developer | 🤖 AI Enthusiast
 
-Passionate about building impactful digital products that combine design, technology, and creativity. I enjoy developing web applications, designing user experiences, exploring artificial intelligence, and creating innovative solutions for real-world problems.
-
----
-
+Passionate about building impactful digital products that blend design, technology, and innovation. I enjoy transforming ideas into meaningful user experiences, developing scalable web applications, exploring artificial intelligence, and solving real-world problems through technology.
 ## 🌐 Connect With Me
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/iqbalapriand)
@@ -77,29 +74,29 @@ Passionate about building impactful digital products that combine design, techno
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalapriand&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaallss&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iqbalapriand&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vaallss&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalapriand&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaallss&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=iqbalapriand&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vaallss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/iqbalapriand/iqbalapriand/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/vaallss/vaallss/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📈 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=iqbalapriand&icon=5&color=12)
+![](https://visitcount.itsvg.in/api?id=vaallss&icon=5&color=12)
 
 ---
 
