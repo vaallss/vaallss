@@ -74,11 +74,9 @@ Passionate about building impactful digital products that blend design, technolo
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaallss&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaallss&theme=tokyonight&hide_border=true)](https://github.com/vaallss)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaallss&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaallss&layout=compact&theme=tokyonight&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaallss&theme=tokyo-night&hide_border=true)](https://github.com/vaallss)
 
 ---
 
