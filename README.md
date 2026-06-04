@@ -82,7 +82,7 @@ Passionate about building impactful digital products that blend design, technolo
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=vaallss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Achievements](https://raw.githubusercontent.com/vaallss/vaallss/main/assets/trophies.svg)
 
 ---
 
