@@ -1,6 +1,6 @@
 👋 Hi, I'm Iqbal Apriand
 
-🎨 UI/UX Designer | 💻 Full-Stack Developer | 🤖 AI Enthusiast
+🎨 UI/UX Designer | 💻 Full-Stack Developer | 🤖 QA Enggineer
 
 Passionate about building impactful digital products that blend design, technology, and innovation. I enjoy transforming ideas into meaningful user experiences, developing scalable web applications, exploring artificial intelligence, and solving real-world problems through technology.
 ## 🌐 Connect With Me
